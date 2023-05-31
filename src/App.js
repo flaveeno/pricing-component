@@ -103,7 +103,7 @@ import bgTop from "./images/bg-top.svg"
           >
             Frontend Mentor
           </a>
-          . Coded by <a href="#" target="_blank" rel="noreferer">Toluwashe Jegede</a>.
+          . Coded by <a href="#" target="_blank" rel="noreferrer">Toluwashe Jegede</a>.
         </div>
       </section>
       <div className="absolute left-0 bottom-0 -z-10"><img src={bgBottom} alt="" className="w-full max-w-full"/></div>
